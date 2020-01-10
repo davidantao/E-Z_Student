@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-Z Student</string>
+    <string name="grade_one">Enter Grade 1</string>
+    <string name="grade_two">Enter Grade 2</string>
+    <string name="grade_three">Enter Grade 3</string>
+    <string name="grade_four">Enter Grade 4</string>
+    <string name="grade_five">Enter Grade 5</string>
+    <string name="avgaim">Avg Needed</string>
+    <string name="resultsbutt">Results</string>
+
+
+</resources>
